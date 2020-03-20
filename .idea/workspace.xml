@@ -15,6 +15,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Kristopher Allbright &lt;kallbright@troy.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ZMQr4Wbi3XJjOPiEDlxMD3GxhG" />
@@ -70,6 +75,10 @@
       <screen x="0" y="23" width="2560" height="1324" />
     </state>
     <state x="744" y="345" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1324@0.23.2560.1324" timestamp="1584647158227" />
+    <state x="913" y="284" key="CommitChangelistDialog2" timestamp="1584664186171">
+      <screen x="0" y="23" width="2560" height="1321" />
+    </state>
+    <state x="913" y="284" key="CommitChangelistDialog2/676.1463.1194.811/0.23.2560.1321@0.23.2560.1321" timestamp="1584664186171" />
     <state width="2539" height="375" key="GridCell.Tab.0.bottom" timestamp="1584663907291">
       <screen x="0" y="23" width="2560" height="1321" />
     </state>
@@ -122,6 +131,10 @@
       <screen x="0" y="23" width="2560" height="1321" />
     </state>
     <state x="789" y="320" key="SettingsEditor/0.23.2560.1321@0.23.2560.1321" timestamp="1584646760151" />
+    <state x="880" y="410" key="Vcs.Push.Dialog.v2" timestamp="1584664223138">
+      <screen x="0" y="23" width="2560" height="1321" />
+    </state>
+    <state x="880" y="410" key="Vcs.Push.Dialog.v2/676.1463.1194.811/0.23.2560.1321@0.23.2560.1321" timestamp="1584664223138" />
     <state x="973" y="511" key="com.intellij.ide.util.TipDialog" timestamp="1584653866515">
       <screen x="0" y="23" width="2560" height="1314" />
     </state>
